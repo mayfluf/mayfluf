@@ -1,4 +1,37 @@
-## Hi there 👋
+
+<h1 align='center'>
+ Olá  👋🏾  Sou a Tainah Torres 👩🏾‍💻 
+</h1>
+</a>
+</p>
+<p align='center'>
+  
+Tenho 35 anos e sou da região metropolitana de MG🔺☕🧀. Fiz uma transição de carreira para me tornar Analista de Dados, formada pela Edutech SoulCode. Foi nessa jornada que me apaixonei pelo "petróleo" dos dados! 💡
+
+Sigo em aprendizado contínuo sobre Ciência de Dados, Engenharia e Inteligência Artificial. Todos os dias avanço um passo a mais para me tornar uma profissional Full Stack de Dados. 🚀📊
+</p>
+</a>
+</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/tainah-torres/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mayfluf&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  📫 Para Contato: <a href='mailto:torrestainah@yahoo.com.br'>torrestainah@yahoo.com.br</a>
+</p>
+
+ ## Formação
+
+- 📖 **Analista de Sistema**\
+📆 2023 - 2026\
+📍 **Estacio de Sá** - Belo Horizonte, Brasil
+
 
 <!--
 **mayfluf/mayfluf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
