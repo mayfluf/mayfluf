@@ -32,7 +32,23 @@ Sigo em aprendizado contínuo sobre Ciência de Dados, Engenharia e Inteligênci
 📆 2023 - 2026\
 📍 **Estacio de Sá** - Belo Horizonte, Brasil
 
+## Certificações Tecnicas
 
+- 📖 **Analista de Dados**\
+📆 2024 - Concluido\
+📍 **Soul Code** - São Paulo, Brasil
+
+- 📖 **Engenheiro de Dados**\
+📆 2025 - Em Formação 1/4\
+📍 **Grupo Boticario** - Paraná, Brasil
+
+- 📖 **Cientista de Dados**\
+📆 2025 - Em Formação 4/6\
+📍 **Estacio de Sá** - São Paulo, Brasil
+
+- 📖 **Especialista em IA**\
+📆 2025 - Em Formação 1/3\
+📍 **PretaLab** - Rio de Janeiro, Brasil
 <!--
 **mayfluf/mayfluf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
