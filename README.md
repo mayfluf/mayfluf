@@ -43,12 +43,12 @@ Sigo em aprendizado contínuo sobre Ciência de Dados, Engenharia e Inteligênci
 📍 **Grupo Boticario** - Paraná, Brasil
 
 - 📖 **Cientista de Dados**\
-📆 2025 - Em Formação 4/6\
-📍 **Estacio de Sá** - São Paulo, Brasil
+📆 2025 - concluido\
+📍 **Alura** - São Paulo, Brasil
 
 - 📖 **Especialista em IA**\
-📆 2025 - Em Formação 1/3\
-📍 **PretaLab** - Rio de Janeiro, Brasil
+📆 2025 - Concluido 
+📍 **XPinvestimentos** - Rio de Janeiro, Brasil
 <!--
 **mayfluf/mayfluf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
